@@ -30,6 +30,6 @@ print(grouped)
 print("")
 
 print("Sorted total price values in descending order")
-sorted_grouped = grouped.sort_values(ascending=False) # Sort the 'Total price' column values in ascending order
+sorted_grouped = grouped.sort_values(ascending=False) # Sort the 'Total price' column values in descending order
 print(sorted_grouped)
 print("")
